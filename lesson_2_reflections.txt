@@ -19,3 +19,10 @@ They shows the relatioship between your branches. You can see the point where yo
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 All the commits that were in either branch are now in the merged branch. 
 To show the the the brnces are being joined.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Pros
+-It is faster than manual commit.
+-Its less error prone.
+Cons
+-It can't resolve conflicts in files.
