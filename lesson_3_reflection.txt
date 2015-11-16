@@ -12,3 +12,5 @@ Describe the differences between forks, clones, and branches. When would you use
 -Clones would be used when several people want to collaborate on the same project.
 -Branches allow you to experiment on a project without affecting the main branch of th project.
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+-It helps keep trck of what commits are not in the remote.
