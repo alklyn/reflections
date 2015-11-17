@@ -19,3 +19,10 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 -Assigning users different files within the project to work on & then sharing changes with other teammate.
 -Setup will be easier.
 -Keeping track of changes & bugs will be a lot harder.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+-When you want to test something new & you don't think it's ready to be shared with the rest of the team.
+Advantages: 
+-You can experiment without affecting others working on the main branch.
+Disadvantage:
+-The process is more complicated.
